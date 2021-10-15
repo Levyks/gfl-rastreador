@@ -1,6 +1,6 @@
 #Rastreamento GFL
 
-Projeto para acompanhar rastreamendo de entrega pela [transportadora GFL](http://www.gflogistica.com.br/)
+Projeto para acompanhar rastreamento de entrega pela [transportadora GFL](http://www.gflogistica.com.br/)
 
 Ele funciona fazendo um POST request para a mesma url que o form da [página de rastreamento](http://gfl.sinclog.com.br/Rastreamentos/Rastreamento) faz, e então fazendo o scraping do HTML respondido, retirando as informações necessárias
 

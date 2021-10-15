@@ -1,7 +1,7 @@
 {
   "name": "gfl-rastreador",
   "version": "1.0.0",
-  "description": "Projeto para acompanhar rastreamendo de entrega pela transportadora GFL",
+  "description": "Projeto para acompanhar rastreamento de entrega pela transportadora GFL",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
