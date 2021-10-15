@@ -1,0 +1,19 @@
+{
+  "name": "gfl-rastreador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv-safe": "^8.2.0",
+    "keep-alive-replit": "^1.0.0",
+    "nodemailer": "^6.7.0"
+  }
+}
