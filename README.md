@@ -21,7 +21,7 @@ Caso esteja usando o Replit, basta setar as variáveis clicando no ícone de cad
 REPLIT=0
 
 #Seu CPF, usado na busca do rastreamento
-CPF=123456789
+CPF=12345678900
 
 #Intervalo em minutos para verificar rastreio
 FETCH_INTERVAL_MIN=15
