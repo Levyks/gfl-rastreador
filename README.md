@@ -1,4 +1,4 @@
-#Rastreamento GFL
+# Rastreamento GFL
 
 Projeto para acompanhar rastreamento de entrega pela [transportadora GFL](http://www.gflogistica.com.br/)
 
@@ -8,7 +8,7 @@ Possui a capacidade de checar em intervalos definidos, te avisando por e-mail ca
 
 Foi feito pensando em ser hosteado de graça no [Replit](https://repl.it), por isso, conta com um web-server rodando na porta 80, respondendo no `/keep-alive`, para que possa ser adicionado em serviços como o [UptimeRobot](https://uptimerobot.com/), garantindo o seu funcionamento 24/7
 
-##Configurações
+## Configurações
 
 Todas as configurações são feitas através de variáveis de ambiente.
 
